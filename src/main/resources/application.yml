@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: mms-core
+  datasource:
+    url: jdbc:sqlserver://192.168.10.187;DatabaseName=simulator;encrypt=true;trustServerCertificate=true;createDatabaseIfNotExist=true
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    username: sya
+    password: '%$Password321'
+  jpa:
+    hibernate:
+      ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    database-platform: org.hibernate.dialect.SQLServerDialect
+server:
+  port: 4040
+
+

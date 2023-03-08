@@ -1,0 +1,11 @@
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/domain/status/Status.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/swagger/SwaggerConstants.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/domain/base/BaseEntity.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/api/ClientsController.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/domain/base/BaseIdentifierGenerator.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/service/impl/ClientServiceImplimentation.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/app/MobileMoneySimulatorApplication.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/domain/Client.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/service/dto/ClientDto.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/persistence/ClientsRepository.java
+/home/tafadzwa/IdeaProjects/Mobile Money Simulator/src/main/java/com/mms/service/ClientService.java
