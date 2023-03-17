@@ -1,5 +1,4 @@
 com/mms/app/MobileMoneySimulatorApplication.class
-com/mms/service/impl/ClientServiceImplimentation.class
 com/mms/domain/status/Status.class
 com/mms/domain/base/BaseIdentifierGenerator.class
 com/mms/persistence/ClientsRepository.class
@@ -10,4 +9,6 @@ com/mms/service/ClientService.class
 com/mms/swagger/SwaggerConstants.class
 com/mms/service/dto/ClientDto.class
 com/mms/domain/base/BaseEntity.class
+com/mms/service/impl/ClientServiceImplementation.class
+com/mms/swagger/SpringdocConfig.class
 com/mms/api/ClientsController.class

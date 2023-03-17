@@ -6,4 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface ClientsRepository extends JpaRepository<Client,String> {
+    boolean existsByNationalId(String nationalId);
 }

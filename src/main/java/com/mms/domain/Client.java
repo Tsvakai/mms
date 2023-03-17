@@ -2,10 +2,7 @@ package com.mms.domain;
 
 import com.mms.domain.base.BaseEntity;
 import com.mms.domain.status.Status;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
@@ -43,5 +40,4 @@ public class Client extends BaseEntity {
     @NotEmpty
     private String address;
     private Status status;
-
 }

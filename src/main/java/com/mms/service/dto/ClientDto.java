@@ -1,6 +1,5 @@
 package com.mms.service.dto;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
 import com.mms.domain.status.Status;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
